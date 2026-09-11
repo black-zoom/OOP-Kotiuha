@@ -17,4 +17,4 @@
 6. Проєкт завантажено на GitHub.
 
 ### Результат
-![Image](../img/lab1)
+![Image](../img/lab1.png)

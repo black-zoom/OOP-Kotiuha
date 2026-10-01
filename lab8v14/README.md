@@ -24,7 +24,6 @@
 * Успадковує: `Payment`
 * Поле: `Gateway`
 * Метод: `override void Process()`
-* Конструктор
 
 
 ### Хід роботи
